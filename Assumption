@@ -1,0 +1,11 @@
+Input Validity: We assume that the input string str is not null, but it can be an empty string. The function will handle this case by returning an empty string.
+
+Character Set: We assume that the input string consists of letters, spaces, and delimiter punctuation characters.
+
+Word Separation: We assume that words in the input string are separated by one or more non-letter characters (spaces or punctuation). This means there won't be consecutive spaces or punctuation characters.
+
+Output Format: We assume that the output string will be in snake case format, where each word is converted to lowercase and separated from adjacent words by an underscore.
+
+Leading and Trailing Characters: We assume that leading and trailing spaces or punctuation characters should be ignored and not included in the output.
+
+Consecutive Punctuation Characters: We assume that consecutive punctuation characters should be treated as one delimiter, and not result in extra underscores in the output.
