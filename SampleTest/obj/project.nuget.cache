@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "IZ+PkPbhkjHSpJfvgokna0mt4wGBCsP3XRuDFj73cfg6jlkY/0CnaaM8jIDBmcOFxon5LEeqjZkHLdTcZSNTYg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\allau\\Desktop\\SampleProject\\SampleTest\\SnakeNUnitTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\allau\\.nuget\\packages\\microsoft.codecoverage\\17.10.0-preview-24080-01\\microsoft.codecoverage.17.10.0-preview-24080-01.nupkg.sha512",
+    "C:\\Users\\allau\\.nuget\\packages\\microsoft.net.test.sdk\\17.10.0-preview-24080-01\\microsoft.net.test.sdk.17.10.0-preview-24080-01.nupkg.sha512",
+    "C:\\Users\\allau\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.10.0-preview-24080-01\\microsoft.testplatform.objectmodel.17.10.0-preview-24080-01.nupkg.sha512",
+    "C:\\Users\\allau\\.nuget\\packages\\microsoft.testplatform.testhost\\17.10.0-preview-24080-01\\microsoft.testplatform.testhost.17.10.0-preview-24080-01.nupkg.sha512",
+    "C:\\Users\\allau\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\allau\\.nuget\\packages\\nunit\\4.1.0\\nunit.4.1.0.nupkg.sha512",
+    "C:\\Users\\allau\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512",
+    "C:\\Users\\allau\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
